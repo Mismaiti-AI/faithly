@@ -1,4 +1,4 @@
-package com.mismaiti
+package com.faithly
 
 import androidx.compose.runtime.*
 import org.koin.compose.KoinApplication

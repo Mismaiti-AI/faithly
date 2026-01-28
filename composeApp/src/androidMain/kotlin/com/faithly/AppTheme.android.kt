@@ -1,4 +1,4 @@
-package com.mismaiti
+package com.faithly
 
 import android.app.Activity
 import androidx.compose.runtime.Composable
